@@ -1,0 +1,22 @@
+{
+  "name": "json-server-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hsabes/Simple-Todo-List-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hsabes/Simple-Todo-List-Backend/issues"
+  },
+  "homepage": "https://github.com/Hsabes/Simple-Todo-List-Backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
